@@ -1,0 +1,9 @@
+.banner-text {
+  font-size: 4em;
+  margin: 0 auto;
+}
+
+.dog-image-results img {
+  max-width: 200px;
+  max-height: 300px;
+}
